@@ -1,5 +1,8 @@
 apply plugin: 'com.android.application'
 //apply plugin: 'com.neenbedankt.android-apt'
+//step3:引用并执行脚本:./gradlew -p app apkdist
+apply plugin:  'com.gradle.apkdist'
+
 android {
     compileSdkVersion 27
     defaultConfig {
@@ -21,4 +24,13 @@ dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.android.support:appcompat-v7:27.1.1'
 
+}
+
+
+apkdistconf {
+    nameMap { name ->
+        println 'hello, ' + name
+        return name
+    }
+    destDir 'your-distribution-directory'
 }

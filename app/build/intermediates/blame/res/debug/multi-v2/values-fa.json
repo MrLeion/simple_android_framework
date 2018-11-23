@@ -4,7 +4,17 @@
             "outputFile": "/Users/tangzenglei/github/simple_android_framework/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
             "map": [
                 {
-                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/da99038e07d086a75fe7e3d766a59f94/res/values-fa/values-fa.xml",
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d52cc20b315d195734a862c2cbc93581/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,318,429,513,616,731,810,888,969,1081,1184,1282,1392,1496,1605,1766,1867",
+                        "endColumns": "109,102,110,83,102,114,78,77,80,111,102,97,109,103,108,160,100,80",
+                        "endOffsets": "210,313,424,508,611,726,805,883,964,1076,1179,1277,1387,1491,1600,1761,1862,1943"
+                    }
+                },
+                {
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0ac0a0bc0ec4e54dfdb0be32b7dc55fa/res/values-fa/values-fa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1948",
                         "endColumns": "100",
                         "endOffsets": "2044"
-                    }
-                },
-                {
-                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/431067e59cd91b7e9b6664b725e519b3/res/values-fa/values-fa.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,215,318,429,513,616,731,810,888,969,1081,1184,1282,1392,1496,1605,1766,1867",
-                        "endColumns": "109,102,110,83,102,114,78,77,80,111,102,97,109,103,108,160,100,80",
-                        "endOffsets": "210,313,424,508,611,726,805,883,964,1076,1179,1277,1387,1491,1600,1761,1862,1943"
                     }
                 }
             ]

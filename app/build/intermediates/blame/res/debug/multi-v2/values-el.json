@@ -4,7 +4,7 @@
             "outputFile": "/Users/tangzenglei/github/simple_android_framework/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml",
             "map": [
                 {
-                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/431067e59cd91b7e9b6664b725e519b3/res/values-el/values-el.xml",
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d52cc20b315d195734a862c2cbc93581/res/values-el/values-el.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/da99038e07d086a75fe7e3d766a59f94/res/values-el/values-el.xml",
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0ac0a0bc0ec4e54dfdb0be32b7dc55fa/res/values-el/values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

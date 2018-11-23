@@ -1,4 +1,4 @@
-#Fri Nov 23 14:02:48 CST 2018
+#Fri Nov 23 14:44:08 CST 2018
 base.0=/Users/tangzenglei/github/simple_android_framework/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
