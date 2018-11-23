@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/431067e59cd91b7e9b6664b725e519b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dadbcee5791625bda4344ed9b68dbfeb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5aaf637c7142bdb5a6aafb85f6d8b7ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a9d2ca3f2d3d3004b7291732224ead82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8c42a8bb96649e6213fb3cbb0a5f35aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/72b16ddc68434693572f78ab4077f4bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/da99038e07d086a75fe7e3d766a59f94/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/16a0a7ab16995583421c8a439f9682ed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/69e2bb24c46ac91aadb4882fc054ea93/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3cd655d440ae406310af81c626866c53/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/037af23361e252ee0ef6f6154fa929b7/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:3:11-48
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:5:5-18:19
+	android:supportsRtl
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:10:9-40
+activity#tzl.com.demo.MainActivity
+ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:11:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/431067e59cd91b7e9b6664b725e519b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/431067e59cd91b7e9b6664b725e519b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dadbcee5791625bda4344ed9b68dbfeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dadbcee5791625bda4344ed9b68dbfeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5aaf637c7142bdb5a6aafb85f6d8b7ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5aaf637c7142bdb5a6aafb85f6d8b7ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a9d2ca3f2d3d3004b7291732224ead82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a9d2ca3f2d3d3004b7291732224ead82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8c42a8bb96649e6213fb3cbb0a5f35aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8c42a8bb96649e6213fb3cbb0a5f35aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/72b16ddc68434693572f78ab4077f4bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/72b16ddc68434693572f78ab4077f4bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/da99038e07d086a75fe7e3d766a59f94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/da99038e07d086a75fe7e3d766a59f94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/16a0a7ab16995583421c8a439f9682ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/16a0a7ab16995583421c8a439f9682ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/69e2bb24c46ac91aadb4882fc054ea93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/69e2bb24c46ac91aadb4882fc054ea93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3cd655d440ae406310af81c626866c53/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3cd655d440ae406310af81c626866c53/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/037af23361e252ee0ef6f6154fa929b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Applications/Android Studio.app/Contents/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/037af23361e252ee0ef6f6154fa929b7/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tangzenglei/github/simple_android_framework/app/src/main/AndroidManifest.xml
