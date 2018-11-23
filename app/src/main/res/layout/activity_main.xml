@@ -18,7 +18,6 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:text="@string/app_name"
-        android:onClick="open"
         />
 
 
