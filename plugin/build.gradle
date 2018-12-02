@@ -3,7 +3,8 @@ apply plugin: 'groovy'
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation gradleApi()//gradle sdk
-    implementation localGroovy()//groovy sdk
+//    implementation localGroovy()//groovy sdk
+    implementation 'org.codehaus.groovy:groovy:2.5.4'
 }
 
 

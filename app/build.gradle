@@ -34,3 +34,49 @@ apkdistconf {
     }
     destDir 'your-distribution-directory'
 }
+
+
+
+
+
+//任务之间的依赖，如果依赖任务加上单引号则无需提前声明
+task intro(dependsOn: 'hello') <<{
+
+    println("introduce yourself!!!")
+
+}
+
+
+
+
+
+//定义一个简单的任务方法一
+task hello {
+    doLast {
+        println 'Hello world!'
+    }
+}
+
+//简略写法：方法二
+//task hello <<{
+//    println 'Hello world!'
+//}
+//Groovy 现身了
+
+
+task count<<{
+    4.times {
+        println("$it")
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
